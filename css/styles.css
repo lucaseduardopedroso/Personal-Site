@@ -53,6 +53,11 @@ h3{
     padding: 20px;
 }
 
+a{
+    font-family: 'Montserrat', sans-serif;
+    color: #91c788;
+}
+
 .footer-c{
     color: #52734d;
     font-size: 0.75rem;
