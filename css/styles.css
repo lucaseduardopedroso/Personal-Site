@@ -50,7 +50,7 @@ h3{
     font-family: 'Montserrat', sans-serif;
     color: #91c788;
     line-height: 4;
-    padding: 20px;
+    padding: 1.25rem;
 }
 
 a:link, a:visited, a:hover, a:active {
@@ -70,6 +70,7 @@ font-style: italic;
 
 .top-container{
     background-color: #ddffbc;
+    margin-left: auto;
     position: relative;
     padding-top: 100px;
 }
@@ -111,16 +112,21 @@ font-style: italic;
     margin-left: 30px;
 }
 
+.mountain{
+    max-width:100%;
+    max-height: 100%;
+}
+
 .bottom-cloud{
     position: absolute;
-    left: 300px;
-    bottom: 300px;
+    left: 18.75rem;
+    bottom: 15.75rem;
 }
 
 .top-cloud{
     position: absolute;
-    right: 300px;
-    top: 50px;
+    right: 18.75rem;
+    top: 4.125rem;
 }
 
 .BUTTON_GLI {
