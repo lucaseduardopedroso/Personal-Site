@@ -53,7 +53,7 @@ h3{
     padding: 20px;
 }
 
-a{
+a:link, a:visited, a:hover, a:active {
     font-family: 'Montserrat', sans-serif;
     color: #91c788;
 }
